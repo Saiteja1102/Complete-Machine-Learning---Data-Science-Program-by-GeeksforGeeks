@@ -60,3 +60,6 @@ print(dct1)
 print(dct2)
 print("-"*40)
 
+# Note:
+# 1. Dictionaries --> NoSQL
+# 2. List --> SQL
