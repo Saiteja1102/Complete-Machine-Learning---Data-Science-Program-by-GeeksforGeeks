@@ -23,7 +23,7 @@ print("-"*50)
 try:
     lst = [1,2,3,4]
     # print(lst[2])
-    print(lst[6])
+    print(lst[2])
 except IndexError as ie:
     print(ie)
 except Exception as e:
